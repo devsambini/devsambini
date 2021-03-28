@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Sambini</h1>
-<h3 align="center">I'm software engineering student and burger lover</h3>
+<h3 align="center">I'm Software Engineering student and burger lover</h3>
 
 - 🔭 I’m currently working at Tempo Assist
 
